@@ -1,4 +1,4 @@
-//progrma que te da 20 nueros mas del que le pides 
+//progrma que te da 10 nueros mas del que le pides 
 #include <stdio.h>
 #include <math.h>
 
